@@ -6,6 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: 'PrograIV-C2-Lab1',
   plugins: [
     vue(),
     vueDevTools(),
