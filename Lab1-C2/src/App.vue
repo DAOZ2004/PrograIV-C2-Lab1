@@ -5,7 +5,7 @@ import C2Lab2 from './Lab2/C2Lab2.vue';
 
 <template>
 
-    <C2Lab2></C2Lab2>
+<C2Lab2></C2Lab2>
   
 </template>
 
