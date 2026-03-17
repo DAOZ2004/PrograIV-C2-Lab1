@@ -107,7 +107,7 @@ app.mount("#app");
 
     {{ mov.descripcion }} - ${{ mov.monto }}
 
-    <button @click="eliminar(index)">❌</button>
+    <button @click="eliminar(index)">Eliminar</button>
   </li>
 </ul>
 
