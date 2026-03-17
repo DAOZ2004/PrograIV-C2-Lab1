@@ -1,11 +1,11 @@
 <script setup>
-import C2Lab2 from './Lab2/C2Lab2.vue';
+import C2Lab1 from './Lab1/C2Lab1.vue';
 
 </script>
 
 <template>
 
- <C2Lab2></C2Lab2>
+ <C2Lab1></C2Lab1>
   
 </template>
 
