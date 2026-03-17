@@ -115,7 +115,7 @@ onMounted(() => {
 
   </div>
 
-  <img src="https://cdn.prod.website-files.com/575ef60509a5a7a9116d9f8c/5ea0d6e51bf6a50c113ac9f0_Gastos%20financieros%20ERP%20nube.jpg" alt="">
+  <img src="https://cdn.prod.website-files.com/575ef60509a5a7a9116d9f8c/5ea0d6e51bf6a50c113ac9f0_Gastos%20financieros%20ERP%20nube.jpg" class="center">
 
 </template>
 
@@ -148,6 +148,11 @@ button {
 
 .gasto {
   color: red;
+}
+
+.center {
+  display: block;
+  margin: auto;
 }
 
 </style>
