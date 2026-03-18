@@ -49,7 +49,7 @@ Esto provoca desorden financiero, falta de ahorro y dificultad para identificar 
 # Preguntas:
 
 
-**1-¿Qué es Vue.js?**
+**1-¿Qué es Vue.js? y funcion dentro de la página web desarrollada**
 
 **Vue.js es un framework progresivo de JavaScript que permite crear interfaces dinámicas. 
 En este sistema permite actualizar automáticamente los datos financieros sin recargar la página.**
@@ -77,7 +77,7 @@ En este sistema permite actualizar automáticamente los datos financieros sin re
 **°v-model: conecta input con datos automáticamente.**
 
 
-*4-*Evento utilizado:**
+**4-Evento utilizado:**
 
 **Se utiliza @click para agregar y eliminar movimientos.**
 
@@ -92,7 +92,7 @@ En este sistema permite actualizar automáticamente los datos financieros sin re
 **Se usa para mostrar alertas cuando el balance es negativo.**
 
 
-**Validación:**
+**7-Validación:**
 
 **Se valida que:**
 
